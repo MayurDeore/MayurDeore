@@ -28,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on Leetcode and learn new things.
+- :zap: In my free time, I solve problems on Leetcode,read books and try to imporve myself.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayur-deore-69978736/)
 
